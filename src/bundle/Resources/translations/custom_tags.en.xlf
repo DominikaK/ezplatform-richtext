@@ -18,7 +18,7 @@
             </trans-unit>
             <trans-unit id="8f9f4c953fc856ffdd89f2584789096bc29cd806"
                         resname="ezrichtext.custom_tags.ezyoutube.description">
-                <source>Add YouTube video</source>
+                <source>Add a YouTube video</source>
                 <target>Add YouTube video</target>
                 <note>key: ezrichtext.custom_tags.ezyoutube.description</note>
             </trans-unit>
@@ -42,7 +42,7 @@
             </trans-unit>
             <trans-unit id="65fc0855d568f69246fa41e8f447617d3ec051e3"
                         resname="ezrichtext.custom_tags.ezyoutube.attributes.video_url.label">
-                <source>Video url</source>
+                <source>Video URL</source>
                 <target>Video url</target>
                 <note>key: ezrichtext.custom_tags.ezyoutube.attributes.video_url.label</note>
             </trans-unit>
@@ -60,7 +60,7 @@
             </trans-unit>
             <trans-unit id="c1fd25ffc048cf47e9bc6bcaae98dd86abb2a7dd"
                         resname="ezrichtext.custom_tags.eztwitter.description">
-                <source>Add tweet</source>
+                <source>Add a tweet</source>
                 <target>Add tweet</target>
                 <note>key: ezrichtext.custom_tags.eztwitter.description</note>
             </trans-unit>
@@ -102,7 +102,7 @@
             </trans-unit>
             <trans-unit id="4c8cbac4f038c15c7e71194a1af3726117d28279"
                         resname="ezrichtext.custom_tags.eztwitter.attributes.tweet_url.label">
-                <source>Tweet url</source>
+                <source>Tweet URL</source>
                 <target>Tweet url</target>
                 <note>key: ezrichtext.custom_tags.eztwitter.attributes.tweet_url.label</note>
             </trans-unit>
@@ -120,7 +120,7 @@
             </trans-unit>
             <trans-unit id="04a09b59ee06e7996670b684a9ca256d792992d2"
                         resname="ezrichtext.custom_tags.ezfacebook.description">
-                <source>Add Facebook post</source>
+                <source>Add a Facebook post</source>
                 <target>Add Facebook post</target>
                 <note>key: ezrichtext.custom_tags.ezfacebook.description</note>
             </trans-unit>
